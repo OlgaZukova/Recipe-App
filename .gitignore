@@ -1,0 +1,12 @@
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.env
+.env.local
+.env.*.local
+src/ovenfire.mp4
+.git-old-backup/
+node_modules/
+.git_failed_backup/
